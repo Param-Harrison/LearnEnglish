@@ -1,5 +1,5 @@
 # Learn English through Tamil
-For native Tamil speakers to Learn and Practice English
+A guide for native Tamil speakers to Learn and Practice English
 
 ### Skills
 - Listening
